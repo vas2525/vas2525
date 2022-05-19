@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vas2525 and looking new job on QA Engineer position.
 - 👀 I'm interested in new technologies, volleyball and motorbikes.
 - 🌱 I’m currently learning HTML, CSS, JS, Jmeter, Swagger, Python.
-- 📫 How to reach me telegram @ElonTwist
+- 📫 How to reach me: Telegram @ElonTwist
 
 
 <!---
