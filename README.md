@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vas2525 and looking for new job on QA Engineer position.
+- 👋 Hi, I’m VASILII TIKHONOV, and I am looking for a new job in the QA Engineer position.
 - 👀 I'm interested in new technologies, volleyball and motorbikes.
 - 🌱 I’m currently learning HTML, CSS, JS, Jmeter, Swagger, Python.
 - 📫 How to reach me: Telegram @ElonTwist
